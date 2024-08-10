@@ -1,2 +1,3 @@
 # sample
-this is a sample repo
+this is a sample 
+Author-Ronald K S
